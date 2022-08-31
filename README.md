@@ -1,16 +1,20 @@
-### Hi there 👋
+# HELLO FROM HSIN
 
-<!--
-**BlueSky16st/BlueSky16st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 环境
 
-Here are some ideas to get you started:
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&style=flat-square&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&style=flat-square&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&style=flat-square&logoColor=white)
+![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=macos&style=flat-square&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&style=flat-square&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技术栈
+
+|    类别    | 技能                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  **后端**  | ![C#](https://img.shields.io/badge/C%23-1c93cd?&logo=csharp&style=flat-square&logoColor=white) ![.Net Core](https://img.shields.io/badge/.Net_Core-512BD4?logo=.net&style=flat-square&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=flat-square&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|  **前端**  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat-square&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&style=flat-square&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&style=flat-square&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-0DBD8B?logo=electron&style=flat-square&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&style=flat-square&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign&style=flat-square&logoColor=white) |
+| **中间件** | ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&style=flat-square&logoColor=white) ![Rabbit MQ](https://img.shields.io/badge/Rabbit_MQ-FF6600?logo=rabbitmq&style=flat-square&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&style=flat-square&logoColor=white) ![Apache Solr](https://img.shields.io/badge/Apache_Solr-D9411E?logo=apachesolr&style=flat-square&logoColor=white)                                                                                                                                                                                                                                                                                            |
+| **数据库** | ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&style=flat-square&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
